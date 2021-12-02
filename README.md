@@ -1,1 +1,9 @@
 # Linux-embarqu-
+
+Bonjour, vous trouverez dans ce readme les informations relatives aux différents projet que nous devons rendre.
+
+Le projet_1 consiste en une calculatrice coder en bash, la calculatrice demande 2 valeurs A et B a l'utilisateur via le terminale, puis propsoe diversr choix de calculs: Addition, soustraction, multiplication, divison, et la mise a la puissance. Il faut saisir le chiffre correspondant a l'opérande a utiliser pour pouvoi leffectuer.
+
+Le projet_2 est le code de mon site en HTML sur le quel figure mon cv, puis divers utilisations de l'html, j'ai essayé de créer des liens cliquable puis un bouton.
+Le but principal de ce projet est de créer son cv en html, puis grace a un logiciel tel que Apache2, de configurer un serveur local sur son réseau personel afin de mettre son site sur ce réseau.
+
